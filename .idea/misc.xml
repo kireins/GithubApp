@@ -8,11 +8,15 @@
         <entry key="app/src/main/res/drawable/rectangle_6.xml" value="0.253125" />
         <entry key="app/src/main/res/drawable/rectangle_7.xml" value="0.253125" />
         <entry key="app/src/main/res/drawable/rectangle_8.xml" value="0.253125" />
-        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.28785667662903097" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_follower.xml" value="0.14361702127659576" />
+        <entry key="app/src/main/res/layout/fragment_following.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_user.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tab_followers.xml" value="0.14361702127659576" />
+        <entry key="app/src/main/res/layout/tab_following.xml" value="0.14361702127659576" />
       </map>
     </option>
   </component>
